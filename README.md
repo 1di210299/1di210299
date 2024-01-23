@@ -4,7 +4,7 @@ I'm Juan Diego, an economist working in data analytics at Banco Pichincha, based
 
 ## About Me
 
-- 👨‍💼 data analyst at Banco Pichincha
+- 👨‍💼 Data analyst at Banco Pichincha
 - 🌍 Based in Lima, Peru
 - 🎓 Learning and applying Python, R, and Machine Learning
 - 🎮 Enjoy playing video games
